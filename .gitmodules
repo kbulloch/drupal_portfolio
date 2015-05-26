@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/follow_custom"]
+	path = sites/all/modules/follow_custom
+	url = https://github.com/kbulloch/follow_custom_module.git
