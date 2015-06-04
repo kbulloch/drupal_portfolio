@@ -1,3 +1,6 @@
 [submodule "sites/all/modules/follow_custom"]
 	path = sites/all/modules/follow_custom
 	url = https://github.com/kbulloch/follow_custom_module.git
+[submodule "sites/all/modules/ajax_work_viewer"]
+	path = sites/all/modules/ajax_work_viewer
+	url = https://github.com/kbulloch/AjaxNodeLoader.git
