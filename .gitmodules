@@ -10,3 +10,6 @@
 [submodule "sites/all/modules/prime_sieve"]
 	path = sites/all/modules/prime_sieve
 	url = https://github.com/kbulloch/PrimeSieveModule.git
+[submodule "sites/all/modules/shift_cipher"]
+	path = sites/all/modules/shift_cipher
+	url = https://github.com/kbulloch/shift_cipher_module.git
