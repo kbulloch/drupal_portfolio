@@ -4,3 +4,9 @@
 [submodule "sites/all/modules/ajax_work_viewer"]
 	path = sites/all/modules/ajax_work_viewer
 	url = https://github.com/kbulloch/AjaxNodeLoader.git
+[submodule "sites/all/modules/ajax_node_loader"]
+	path = sites/all/modules/ajax_node_loader
+	url = https://github.com/kbulloch/AjaxNodeLoader.git
+[submodule "sites/all/modules/prime_sieve"]
+	path = sites/all/modules/prime_sieve
+	url = https://github.com/kbulloch/PrimeSieveModule.git
