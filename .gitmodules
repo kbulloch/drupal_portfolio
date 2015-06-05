@@ -16,3 +16,6 @@
 [submodule "sites/all/modules/contact_customizer"]
 	path = sites/all/modules/contact_customizer
 	url = https://github.com/kbulloch/simple_contact_module.git
+[submodule "sites/all/modules/DNA"]
+	path = sites/all/modules/DNA
+	url = https://github.com/kbulloch/DNA_module.git

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Work Samples feature.
+ */
+
+include_once 'work_samples.features.inc';
