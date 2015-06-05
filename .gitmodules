@@ -13,3 +13,6 @@
 [submodule "sites/all/modules/shift_cipher"]
 	path = sites/all/modules/shift_cipher
 	url = https://github.com/kbulloch/shift_cipher_module.git
+[submodule "sites/all/modules/contact_customizer"]
+	path = sites/all/modules/contact_customizer
+	url = https://github.com/kbulloch/simple_contact_module.git
