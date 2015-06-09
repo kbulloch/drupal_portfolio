@@ -20,3 +20,8 @@
 /* SMACSS theme rules */
 /* @import "theme-A.css"; */
 /* @import "theme-B.css"; */
+
+body {
+    background-color: #009999;
+    font-family: Impact, Charcoal, sans-serif;
+}
