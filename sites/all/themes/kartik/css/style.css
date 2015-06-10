@@ -491,11 +491,11 @@ h1#site-name {
 #main-menu-links a:hover,
 #main-menu-links a:focus {
   background: #f6f6f2;
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(255, 255, 255, 0.45);
 }
 #main-menu-links a:active {
   background: #b3b3b3;
-  background: rgba(255, 255, 255, 1.0);
+  background: rgba(255, 255, 255, .8);
 }
 #main-menu-links li a.active {
   border-bottom: none;
@@ -504,7 +504,7 @@ h1#site-name {
 .featured #main-menu-links li a:active,
 .featured #main-menu-links li a.active {
   background: #f0f0f0;
-  background: rgba(240, 240, 240, 1.0);
+  background: rgba(240, 240, 240, .8);
 }
 
 /* --------------- Secondary Menu ------------ */
@@ -758,7 +758,7 @@ ul.links {
   margin: 0 0 0.5em;
   border-bottom: 1px solid #d6d6d6;
   padding-bottom: 5px;
-  text-shadow: 0 1px 0 #fff;
+  /*text-shadow: 0 1px 0 #fff;*/
   font-size: 1.071em;
   line-height: 1.2;
 }
