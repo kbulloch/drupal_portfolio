@@ -1,3 +1,41 @@
+#Drupal Portfolio
+
+Kyle K Bulloch
+
+06.10.2015
+
+for Epicodus
+
+###Description
+
+This is a portfolio website built in Drupal 7.  It includes several custom modules which are loaded as git submodules.  It also contains a few work samples built while studying at Epicodus.
+
+###Setup
+
+```
+git clone --recursive https://github.com/kbulloch/portfolio_drupal.git
+```
+Set document root of your MAMP/WAMPP/XAMPP or similar service to the directory you just cloned the repo into.
+
+Open phpmyadmin (localhost/phpmyadmin or localhost:8888/phpmyadmin)
+
+Import the database located at portfolio_drupal/sites/db_backup/portfolio_db.sql
+
+```
+database: portfolio_db.sql
+username: admin
+password: admin
+
+site administration account:
+username: admin
+password: admin
+```
+
+###Legal
+
+Copyright (c) 2015 Kyle K Bulloch
+
+MIT License.
 
 CONTENTS OF THIS FILE
 ---------------------
