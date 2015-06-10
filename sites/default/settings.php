@@ -213,13 +213,13 @@
  * @endcode
  */
 $databases = array (
-  'default' => 
+  'default' =>
   array (
-    'default' => 
+    'default' =>
     array (
       'database' => 'portfolio_db',
-      'username' => 'kyle',
-      'password' => '5541837962',
+      'username' => 'admin',
+      'password' => 'admin',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
